@@ -47,7 +47,7 @@
           <td align='center'>4</td>
           <td>Алгоритмы и структуры данных</td>
           <td>
-            <a href="" target="_blank"></a>
+            <a href="https://github.com/DMITRII-RUS/yandex-contest" target="_blank">Решенные задачи на платформе Яндекс Контест</a>
           </td>
           <td>
             <a href="https://github.com/DMITRII-RUS/delivery" target="_blank">Служба доставки</a>
