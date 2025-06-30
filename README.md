@@ -24,13 +24,23 @@
       </thead>
       <tbody>
         <tr>
+          <td align='center'>2</td>
+          <td>Углубленный Python</td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/yandex_second_sprint" target="_blank">Работа с классами</a>
+          </td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+        </tr>
+        <tr>
           <td align='center'>3</td>
           <td>Углубленный Python</td>
           <td>
             <a href="https://github.com/DMITRII-RUS/guess_number" target="_blank">Игра: Угадай число</a>
           </td>
           <td>
-            <a href=https://github.com/DMITRII-RUS/the_snake" target="_blank">Игра: Змейка (написана на классах)</a>
+            <a href="https://github.com/DMITRII-RUS/the_snake" target="_blank">Игра: Змейка (написана на классах)</a>
           </td>
         </tr>
         <tr>
