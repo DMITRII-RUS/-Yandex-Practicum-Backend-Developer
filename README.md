@@ -60,7 +60,7 @@
             <a href="" target="_blank"></a>
           </td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/decryption" target="_blank">Шифрованные инструкции</a>
+            <a href="https://github.com/DMITRII-RUS/decoding" target="_blank">Шифрованные инструкции</a>
           </td>
         </tr>
       </tbody>
