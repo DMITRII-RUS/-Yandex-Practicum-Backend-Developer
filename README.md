@@ -1,4 +1,4 @@
-# 10-месячное образование в Яндекс Практикум в 2025 году
+# 10-месячное образование в Яндекс.Практикум в 2025 году
 <!DOCTYPE html>
 <html>
   <head>
@@ -27,7 +27,8 @@
           <td align='center'>2</td>
           <td>Углубленный Python</td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/yandex_second_sprint" target="_blank">Работа с классами</a>
+            <a href="https://github.com/DMITRII-RUS/yandex_second_sprint" target="_blank"
+              >Работа с классами</a>
           </td>
           <td>
             <a>(не предусмотрена)</a>
@@ -37,17 +38,20 @@
           <td align='center'>3</td>
           <td>Углубленный Python</td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/guess_number" target="_blank">Игра: Угадай число</a>
+            <a href="https://github.com/DMITRII-RUS/guess_number" target="_blank"
+              >Игра: Угадай число</a>
           </td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/the_snake" target="_blank">Игра: Змейка (написана на классах)</a>
+            <a href="https://github.com/DMITRII-RUS/the_snake" target="_blank"
+              >Игра: Змейка (написана на классах)</a>
           </td>
         </tr>
         <tr>
           <td align='center'>4</td>
           <td>Алгоритмы и структуры данных</td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/yandex-contest" target="_blank">Решенные задачи на платформе Яндекс Контест</a>
+            <a href="https://github.com/DMITRII-RUS/yandex-contest" target="_blank"
+              >Решенные задачи на платформе Яндекс Контест</a>
           </td>
           <td>
             <a href="https://github.com/DMITRII-RUS/delivery" target="_blank">Служба доставки</a>
@@ -57,7 +61,8 @@
           <td align='center'>5</td>
           <td>Алгоритмы и структуры данных</td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/yandex-contest" target="_blank">Решенные задачи на платформе Яндекс Контест</a>
+            <a href="https://github.com/DMITRII-RUS/yandex-contest" target="_blank"
+              >Решенные задачи на платформе Яндекс Контест</a>
           </td>
           <td>
             <a href="https://github.com/DMITRII-RUS/decoding" target="_blank">Шифрованные инструкции</a>
