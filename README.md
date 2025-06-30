@@ -30,7 +30,7 @@
             <a href="https://github.com/DMITRII-RUS/yandex_second_sprint" target="_blank">Работа с классами</a>
           </td>
           <td>
-            <a href="" target="_blank"></a>
+            <a>(не предусмотрена)</a>
           </td>
         </tr>
         <tr>
