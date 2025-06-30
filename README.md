@@ -50,7 +50,7 @@
             <a href="" target="_blank"></a>
           </td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/delivery_service" target="_blank">Служба доставки</a>
+            <a href="https://github.com/DMITRII-RUS/delivery" target="_blank">Служба доставки</a>
           </td>
         </tr>
         <tr>
