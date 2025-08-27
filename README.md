@@ -69,7 +69,7 @@
           </td>
         </tr>
         <td align='center'>6-10</td>
-          <td>Фреймворк Django</td>
+          <td>Backend на Django</td>
           <td>
             <a href="https://github.com/DMITRII-RUS/django-sprint4" target="_blank"
               >Создание и развитие проекта Blogicum</a>
