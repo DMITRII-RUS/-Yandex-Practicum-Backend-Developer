@@ -69,13 +69,13 @@
           </td>
         </tr>
         <td align='center'>5</td>
-          <td>Работа во фреймворке Django</td>
+          <td>Фреймворк Django</td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/yandex-contest" target="_blank"
-              >Проект Blogicum</a>
+            <a href="https://github.com/DMITRII-RUS/django-sprint4" target="_blank"
+              >Создание и развитие проекта Blogicum</a>
           </td>
           <td>
-            <a href="https://github.com/DMITRII-RUS/decoding" target="_blank">Проект Blogicum</a>
+            <a href="https://github.com/DMITRII-RUS/django-sprint4" target="_blank">Проект Blogicum</a>
           </td>
         </tr>
       </tbody>
