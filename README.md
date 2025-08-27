@@ -68,7 +68,7 @@
             <a href="https://github.com/DMITRII-RUS/decoding" target="_blank">Шифрованные инструкции</a>
           </td>
         </tr>
-        <td align='center'>5</td>
+        <td align='center'>6</td>
           <td>Фреймворк Django</td>
           <td>
             <a href="https://github.com/DMITRII-RUS/django-sprint4" target="_blank"
