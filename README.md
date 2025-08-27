@@ -68,6 +68,16 @@
             <a href="https://github.com/DMITRII-RUS/decoding" target="_blank">Шифрованные инструкции</a>
           </td>
         </tr>
+        <td align='center'>5</td>
+          <td>Работа во фреймворке Django</td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/yandex-contest" target="_blank"
+              >Проект Blogicum</a>
+          </td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/decoding" target="_blank">Проект Blogicum</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
