@@ -77,7 +77,6 @@
           <td>
             <a href="https://github.com/DMITRII-RUS/django-sprint4" target="_blank">Проект Blogicum (исходник)</a>
             <a href="https://dmitriich.pythonanywhere.com/" target="_blank">Проект Blogicum (демонстрация)</a>
-            
           </td>
         </tr>
       </tbody>
