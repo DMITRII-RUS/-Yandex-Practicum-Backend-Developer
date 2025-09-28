@@ -68,7 +68,8 @@
             <a href="https://github.com/DMITRII-RUS/decoding" target="_blank">Шифрованные инструкции</a>
           </td>
         </tr>
-        <td align='center'>6-10</td>
+        <tr>
+          <td align='center'>6-10</td>
           <td>Backend на Django</td>
           <td>
             <a href="https://github.com/DMITRII-RUS/django-sprint4" target="_blank"
@@ -79,6 +80,26 @@
             <a href="https://dmitriich.pythonanywhere.com/" target="_blank">Проект Blogicum (демонстрация)</a>
           </td>
         </tr>
+        <tr>
+        <td align='center'>11</td>
+          <td>Pytest and Unittest</td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/django-testing" target="_blank">Тестирование проектов</a>
+          </td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/django-testing" target="_blank">Написание pytests и unittests по проектам YaNote и YaNews</a>
+          </td>
+        </tr>
+        <tr>
+        <td align='center'>12</td>
+          <td>Telegram-bot</td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/homework-bot" target="_blank">Основы API</a>
+          </td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/homework-bot" target="_blank">Телеграм-бот, опрашивающий статус проекта на сервере Yandex Practicum</a>
+          </td>
+        </tr>      
       </tbody>
     </table>
   </body>
