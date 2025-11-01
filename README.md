@@ -99,7 +99,17 @@
           <td>
             <a href="https://github.com/DMITRII-RUS/homework-bot" target="_blank">Телеграм-бот, опрашивающий статус проекта на сервере Yandex Practicum</a>
           </td>
-        </tr>      
+        </tr>
+        <tr>
+        <td align='center'>12</td>
+          <td>REST API для социальной сети Yatube</td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/api-final-yatube" target="_blank">REST API Yatube</a>
+          </td>
+          <td>
+            <a href="https://github.com/DMITRII-RUS/api-final-yatube" target="_blank">REST API-интерфейс с технологиями Python 3.12+, Django 5.1.1, Django REST Framework, Simple JWT</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
