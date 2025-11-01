@@ -101,7 +101,7 @@
           </td>
         </tr>
         <tr>
-        <td align='center'>12</td>
+        <td align='center'>13-14</td>
           <td>REST API для социальной сети Yatube</td>
           <td>
             <a href="https://github.com/DMITRII-RUS/api-final-yatube" target="_blank">REST API Yatube</a>
